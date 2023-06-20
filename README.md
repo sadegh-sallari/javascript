@@ -1,8 +1,10 @@
+درود به همگی. برای اینکه راحت تر با مفاهیم ارتباط بگیرید این قسمت رو انگلیسی نوشتم اما توی ویدئوهای یوتیوب سعی کردم که اصطلاحات رو هم به صورت فارسی و هم انگلیسی توضیح بدم که مفاهیم رو به صورت عمیق تو ذهن‌های زیباتون مهمون کنم.   
+
 # Javascript steps
 
 Hello. Below you will find the steps for learning JavaScript in the field of web development. You can also watch video tutorials of these steps on our YouTube channel.
 
-**Youtube link:**
+**Youtube link:** https://www.youtube.com/@sadeghSourceCode
 
 # Level 1: Introduction to JavaScript Basics
 
