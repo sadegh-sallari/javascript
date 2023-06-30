@@ -5,12 +5,12 @@
 
 Hello. Below you will find the steps for learning JavaScript in the field of web development. You can also watch video tutorials of these steps on our YouTube channel.
 
-**Youtube link:** https://www.youtube.com/@sadeghSourceCode
+# [Youtube](https://www.youtube.com/@sadeghSourceCode)
 
 # Level 1: Introduction to JavaScript Basics
 
-1. Introduction to JavaScript and its role in web development
-2. Setting up a development environment for JavaScript
+1. Introduction to JavaScript and its role in web development  [Watch on Youtube](https://youtu.be/5tdjTqYbvv4)
+2. Setting up a development environment for JavaScript [Watch on Youtube](https://youtu.be/5tdjTqYbvv4)
 3. JavaScript variables and data types
 4. Working with operators and expressions in JavaScript
 5. Conditional statements and control flow in JavaScript
