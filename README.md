@@ -17,7 +17,7 @@ Hello. Below you will find the steps for learning JavaScript in the field of web
 6. JavaScript loops and iteration [Watch on Youtube](https://youtu.be/wlaWnG1pbU0)
 7. Functions in JavaScript and their usage [Watch on Youtube](https://youtu.be/wlaWnG1pbU0)
 8. Arrays and array manipulation in JavaScript [Watch on Youtube](https://youtu.be/qJHT9-pYJiM)
-9. Working with objects and object-oriented programming concepts in JavaScript [Watch on Youtube](https://youtu.be/qJHT9-pYJiM)
+9. Working with objects and object-oriented programming concepts in JavaScript [Watch on Youtube](https://youtu.be/qJHT9-pYJiM)   
 10 Introduction to DOM manipulation with JavaScript [Watch on Youtube](https://youtu.be/qJHT9-pYJiM)
 
 # Level 2: Intermediate JavaScript Concepts
