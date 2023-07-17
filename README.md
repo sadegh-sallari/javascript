@@ -11,14 +11,14 @@ Hello. Below you will find the steps for learning JavaScript in the field of web
 
 1. Introduction to JavaScript and its role in web development  [Watch on Youtube](https://youtu.be/5tdjTqYbvv4)
 2. Setting up a development environment for JavaScript [Watch on Youtube](https://youtu.be/5tdjTqYbvv4)
-3. JavaScript variables and data types
-4. Working with operators and expressions in JavaScript
-5. Conditional statements and control flow in JavaScript
-6. JavaScript loops and iteration
-7. Functions in JavaScript and their usage
-8. Arrays and array manipulation in JavaScript
-9. Working with objects and object-oriented programming concepts in JavaScript
-10 Introduction to DOM manipulation with JavaScript
+3. JavaScript variables and data types [Watch on Youtube](https://youtu.be/wlaWnG1pbU0)
+4. Working with operators and expressions in JavaScript [Watch on Youtube](https://youtu.be/wlaWnG1pbU0)
+5. Conditional statements and control flow in JavaScript [Watch on Youtube](https://youtu.be/wlaWnG1pbU0)
+6. JavaScript loops and iteration [Watch on Youtube](https://youtu.be/wlaWnG1pbU0)
+7. Functions in JavaScript and their usage [Watch on Youtube](https://youtu.be/wlaWnG1pbU0)
+8. Arrays and array manipulation in JavaScript [Watch on Youtube](https://youtu.be/qJHT9-pYJiM)
+9. Working with objects and object-oriented programming concepts in JavaScript [Watch on Youtube](https://youtu.be/qJHT9-pYJiM)   
+10 Introduction to DOM manipulation with JavaScript [Watch on Youtube](https://youtu.be/qJHT9-pYJiM)
 
 # Level 2: Intermediate JavaScript Concepts
 
